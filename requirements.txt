@@ -1,0 +1,6 @@
+grok-api-client==0.1.0  # xAI/Grok integration
+anantai-sdk==1.0  # Placeholder; pip if available, else custom
+torch==2.0.0  # For ML models
+shap==0.42.0  # Explainable AI
+streamlit==1.28.0  # Demo UI
+pandas==2.1.0  # Data handling
